@@ -133,7 +133,6 @@
     width: 100%;
 }
 
-
 .sns-container-title {
     color: rgba(138, 146, 166, 1);
 }
@@ -142,7 +141,6 @@
     display: flex;
     gap: 24px;
 }
-
 
 .input-box {
     width: 100%;
@@ -160,10 +158,10 @@
     margin-bottom: 4px;
 }
 
-.input-primary-button{
+.input-primary-button {
     box-sizing: border-box;
     width: 110px;
-    padding: 8px 24px;
+    padding: 8px 0px;
     border-radius: 6px;
 
     background-color: rgba(58, 87, 232, 0.2);
@@ -178,11 +176,11 @@
     text-align: center;
 }
 
-.input-primary-button:hover{
+.input-primary-button:hover {
     cursor: pointer;
 }
 
-.input-disable-button{
+.input-disable-button {
     box-sizing: border-box;
     width: 110px;
     padding: 8px 0px;
@@ -214,4 +212,3 @@
 .error {
     color: rgba(255, 84, 62, 1);
 }
-
