@@ -3,7 +3,7 @@ function onKakaoButtonClickHandler(event) {
     window.location.href = 'https://developers.kakao.com/';
 }
 
-// naver https://developers.naver.com/ !!!!!
+// naver https://developers.naver.com/
 function onNaverButtonClickHandler(event) {
     window.location.href = 'https://developers.naver.com/';
 }
